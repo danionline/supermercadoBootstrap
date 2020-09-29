@@ -1,0 +1,60 @@
+@media screen and (max-width:576px) {
+  /* Aquí correspondería el código CSS para pantallas de 5760px */
+  
+  }
+
+  main{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  footer{
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+
+  }
+  .card-text{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    
+  }
+  input{
+
+    width: 2.3rem;
+    height: 2.2rem;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    border: none;
+    outline: 0;
+    box-shadow: none;
+    background-color: transparent;
+    font-weight: 200;
+    -webkit-appearance: textfield !important;
+    -moz-appearance:textfield !important;
+   
+  }
+  
+  .card{
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 16px;
+  
+    }
+
+  
+
+
+  
