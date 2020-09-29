@@ -4,7 +4,8 @@ Es una aplicacion de un supermecado donde tiene una serie de productos, un login
 
 
 ## Codigo que utiliza:
--bootstrap
--css
--html
+- BOOTSTRAP
+- CSS
+- HTML
 
+![No disponemos de la imagen.error](file:///home/dani/Documentos/Screenshot.png "Listado de Productos")
