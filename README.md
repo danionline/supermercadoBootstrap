@@ -9,3 +9,7 @@ Es una aplicacion de un supermecado donde tiene una serie de productos, un login
 - HTML
 
 ![No disponemos de la imagen.](Screenshot.png?raw=true "Listado de Productos")
+
+
+## Instrucciones de uso de la app:
+Se utiliza en un servidor web, esto es solo un lenguaje de etiquetas html, css y con bootstrap, es una pagina estática.
