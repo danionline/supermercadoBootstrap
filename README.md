@@ -8,4 +8,4 @@ Es una aplicacion de un supermecado donde tiene una serie de productos, un login
 - CSS
 - HTML
 
-![No disponemos de la imagen.error](file:///home/dani/Documentos/Screenshot.png "Listado de Productos")
+![No disponemos de la imagen.](Screenshot.png?raw=true "Listado de Productos")
